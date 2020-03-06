@@ -1,4 +1,4 @@
-# coding-rent-management
+# domain-rent-management
 ER diagram for rent management , used draw.io as a tool for this.
 
 ## Requirements
